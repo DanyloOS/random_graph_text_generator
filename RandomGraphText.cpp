@@ -1,4 +1,4 @@
-#include "randomgraphtext.h"
+#include "RandomGraphText.h"
 
 #include <algorithm>
 #include <set>
